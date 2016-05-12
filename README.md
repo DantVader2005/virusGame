@@ -1,6 +1,7 @@
 # virusGame
 a game about a atventure inside your body je wil play as a bleu cell and your missione is dont let the red cells reschars your heart!
 
+```
 float redCellX0 = 1375;
 float redCellX1 = 1975;
 float redCellX2 = 2875;
@@ -72,4 +73,6 @@ ellipse(pmouseX,pmouseY,100,100);
   */
   image(titelScherm,1375,800);
 }
+```
+
 like you the code folow me to more codes! #tis is make in prosecing
